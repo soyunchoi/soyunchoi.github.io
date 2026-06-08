@@ -24,14 +24,17 @@ I am a second-year Ph.D. student at SKKU (Sungkyunkwan University), South Korea,
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 Ranked 5th in the Real-world Challenge at the ICRA 2026 LeHome Challenge!
+- *2026.06*: &nbsp;🎉🎉 Comprehensive survey on advances and challenges in RGB-D semantic segmentation is accepted at Pattern Recognition!
+- *2026.05*: &nbsp;🎉🎉 Ranked 8th in the Simulation Challenge at the ICRA 2026 LeHome Challenge!
 - *2025.01*: &nbsp;🎉🎉 Memory-efficient cross-modal attention for RGB-X segmentation and crowd counting is accepted at Pattern Recognition!
-- *2023.06*: &nbsp;🎉🎉 Intra-inter Modal Attention Blocks for RGB-D Semantic Segmentation is accepted at ICMR 2023 Oral!
-- *2022.10*: &nbsp;🎉🎉 Spatio-channel Attention Blocks for Cross-modal Crowd Counting is accepted at ACCV 2022 Oral!
 
 # 📝 Publications 
 <span style="font-size: smaller;">Equal contribution are denoted by *</span>
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/qa-tiger.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
+
+- <strong>Comprehensive Survey on Advances and Challenges in RGB-D Semantic Segmentation, <span style="color:blue">Pattern Recognition 2026</span></strong> <span style="font-size: smaller;">(Q1, In Press)</span> <br> Huiling Liu, Eunnam Cho, <strong><span style="color:blue">Soyun Choi</span></strong>, Aecheon Jung, Seung Wook Kim, and Sungeun Hong<br>[[paper]](https://www.sciencedirect.com/science/article/pii/S0031320326011118) [[code]](https://github.com/AIM-SKKU/RGBD-SS-survey)
 
 - <strong>Connecting the Objects: Relational Occlusion Graphs for Amodal Segmentation </strong> <br> Under Review <br> Huiling Liu, Eunnam Cho, <strong><span style="color:blue">Soyun Choi</span></strong>, Aecheon Jung, Seung Wook Kim, and Sungeun Hong<br>
 
@@ -55,6 +58,8 @@ I am a second-year Ph.D. student at SKKU (Sungkyunkwan University), South Korea,
 - *2021.09 - 2023.08*: <strong>Visuo-Tactile Perception for Human-Like Manipulation of Deformable Objects with Dynamic Center of Mass</strong> <br> Funded by Samsung Research Funding & Incubation Center for Future Technology
 
 # 🎖 Honors and Awards
+- *2026.06*: Ranked <strong>5th</strong> in the Real-world Challenge at the [ICRA 2026 LeHome Challenge](https://lehome-challenge.com/).
+- *2026.06*: Ranked <strong>8th</strong> in the Simulation Challenge at the [ICRA 2026 LeHome Challenge](https://lehome-challenge.com/).
 - *2025.11*: Selected as <strong>a recipient of the AI SeoulTech Graduate Scholarship</strong>, awarded for outstanding research potential in AI.
 - *2022.02*: <strong>Excellence Award</strong>, Inha Artificial Intelligence Challenge.
 
