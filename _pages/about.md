@@ -34,7 +34,7 @@ I am a second-year Ph.D. student at SKKU (Sungkyunkwan University), South Korea,
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/qa-tiger.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
-- <strong>Comprehensive Survey on Advances and Challenges in RGB-D Semantic Segmentation, <span style="color:blue">Pattern Recognition 2026</span></strong> <span style="font-size: smaller;">(Q1, In Press)</span> <br> <strong><span style="color:blue">Soyun Choi</span></strong>, Eunnam Cho, Aecheon Jung, Byung-Cheol Min, Junhong Min, and Sungeun Hong<br>[[paper]](https://www.sciencedirect.com/science/article/pii/S0031320326011118) [[code]](https://github.com/AIM-SKKU/RGBD-SS-survey)
+- <strong>Comprehensive Survey on Advances and Challenges in RGB-D Semantic Segmentation, <span style="color:blue">Pattern Recognition 2026</span></strong> <span style="font-size: smaller;">(Q1, JCR: Top 6.9%)</span> <br> <strong><span style="color:blue">Soyun Choi</span></strong>, Eunnam Cho, Aecheon Jung, Byung-Cheol Min, Junhong Min, and Sungeun Hong<br>[[DOI]](https://doi.org/10.1016/j.patcog.2026.114146) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320326011118) [[code]](https://github.com/AIM-SKKU/RGBD-SS-survey)
 
 - <strong>Connecting the Objects: Relational Occlusion Graphs for Amodal Segmentation </strong> <br> Under Review <br> Huiling Liu, Eunnam Cho, <strong><span style="color:blue">Soyun Choi</span></strong>, Aecheon Jung, Seung Wook Kim, and Sungeun Hong<br>
 
