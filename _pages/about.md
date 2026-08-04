@@ -35,7 +35,7 @@ I am a third-year Ph.D. student at SKKU (Sungkyunkwan University), South Korea, 
 <div class='paper-box-text' markdown="1">
 
 - <strong>Dual Path Semantic Segmentation with Locality Guidance Tokens, <span style="color:blue"> Neural Networks 2026 </span></strong> <br>
-<span>Jaeik Kim*</span>, <span>Yoonjae Baek*</span>, Aecheon Jung, Hongyeob Kim, <strong><span style="color:blue">Soyun Choi</span></strong>, Youngeun Kim, Jaeyoung Do, and Sungeun Hong <br>
+Jaeik Kim, Yoonjae Bae, Aecheon Jung, Hongyeob Kim, <strong><span style="color:blue">Soyun Choi</span></strong>, Youngeun Kim, Jaeyoung Do, and Sungeun Hong <br>
 
 
 - <strong>Connecting the Objects: Relational Occlusion Graphs for Amodal Segmentation, <span style="color:blue">Pattern Recognition Letters 2026</span></strong> <br> <span>Huiling Liu*</span>, <span>Eunnam Cho*</span>, <strong><span style="color:blue">Soyun Choi</span></strong>, Aecheon Jung, Seung Wook Kim, and Sungeun Hong†<br>
