@@ -34,7 +34,7 @@ I am a third-year Ph.D. student at SKKU (Sungkyunkwan University), South Korea, 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/qa-tiger.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
-- <strong>Dual Path Semantic Segmentation with Locality Guidance Tokens, <span style="color:blue"> Neural Networks 2026 </span></strong> <br>
+- <strong>Dual Path Semantic Segmentation with Locality Guidance Tokens, <span style="color:blue"> Neurocomputing 2026 </span></strong> <br>
 Jaeik Kim, Yoonjae Bae, Aecheon Jung, Hongyeob Kim, <strong><span style="color:blue">Soyun Choi</span></strong>, Youngeun Kim, Jaeyoung Do, and Sungeun Hong <br>
 
 
