@@ -58,9 +58,9 @@ Jaeik Kim, Yoonjae Baek, Aecheon Jung, Hongyeob Kim, <strong><span style="color:
 - *2021.09 - 2023.08*: <strong>Visuo-Tactile Perception for Human-Like Manipulation of Deformable Objects with Dynamic Center of Mass</strong> <br> Funded by Samsung Research Funding & Incubation Center for Future Technology
 
 # 🎖 Honors and Awards
-- *2026.11*: Ranked <strong>3rd</strong> in the [MetaFine Open Competition at RoboFineMani, CoRL 2026](https://robofinemani2026.github.io/competition.html). [[Technical Report]](https://arxiv.org/abs/2611.00955)
-- *2026.06*: Ranked <strong>5th</strong> in the Real-world Challenge at the [ICRA 2026 LeHome Challenge](https://lehome-challenge.com/).
-- *2026.06*: Ranked <strong>8th</strong> in the Simulation Challenge at the [ICRA 2026 LeHome Challenge](https://lehome-challenge.com/).
+- *2026.11*: Ranked **3rd** in the [CoRL 2026 RoboFineMani MetaFine Open Competition](https://robofinemani2026.github.io/competition.html). [[Technical Report]](https://arxiv.org/abs/2611.00955)
+- *2026.06*: Ranked **5th** in the Real-world Challenge at the [ICRA 2026 LeHome Challenge](https://lehome-challenge.com/).
+- *2026.06*: Ranked **8th** in the Simulation Challenge at the [ICRA 2026 LeHome Challenge](https://lehome-challenge.com/).
 - *2025.11*: Selected as <strong>a recipient of the AI SeoulTech Graduate Scholarship</strong>, awarded for outstanding research potential in AI.
 - *2022.02*: <strong>Excellence Award</strong>, Inha Artificial Intelligence Challenge.
 
