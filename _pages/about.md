@@ -29,7 +29,7 @@ I am a third-year Ph.D. student at SKKU (Sungkyunkwan University), South Korea, 
 <div class='paper-box-text' markdown="1">
 
 - <strong>Dual Path Semantic Segmentation with Locality Guidance Tokens, <span style="color:blue"> Neurocomputing 2026 </span></strong> <br>
-Jaeik Kim, Yoonjae Baek, Aecheon Jung, Hongyeob Kim, <strong><span style="color:blue">Soyun Choi</span></strong>, Youngeun Kim, Jaeyoung Do, and Sungeun Hong <br>
+Jaeik Kim, Yoonjae Baek, Aecheon Jung, Hongyeob Kim, <strong><span style="color:blue">Soyun Choi</span></strong>, Youngeun Kim, Jaeyoung Do, and Sungeun Hong† <br>
 [[DOI]](https://doi.org/10.1016/j.neucom.2026.135268) [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6380741) <a href="https://scholar.google.com/scholar?q=%22Dual+Path+Semantic+Segmentation+with+Locality+Guidance+Tokens%22"><img src="https://img.shields.io/badge/Google%20Scholar-View-blue?logo=Google%20Scholar&style=flat"></a>
 
 
